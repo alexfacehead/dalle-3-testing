@@ -1,0 +1,10 @@
+numpy
+Pillow
+scikit-image
+pybrisque
+libsvm
+openai
+termcolor
+python-dotenv
+virtualenv
+opencv-python-headless
